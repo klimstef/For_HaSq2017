@@ -2,8 +2,8 @@
 
 #HEADERS
 
-# This is am <h1> tag (one 'taraba')
-## This is am <h2> tag (two 'taraba')
+# This is an <h1> tag (one 'taraba')
+## This is an <h2> tag (two 'taraba')
 ###### This is am <h6> tag (six 'taraba')
 
 #Emphasis (with stars)
